@@ -24,3 +24,6 @@ def test_task(n):
     return (start_arr)
 
 
+print("Input n")
+n = int(input())
+print(test_task(n))
